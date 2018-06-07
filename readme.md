@@ -36,13 +36,13 @@
 git clone https://github.com/你的用户名/resume.git
 ```
 
-a.用浏览器打开index.html文件，你会发现这份模板是可编辑的，所有的文字栏目都是可以随意编辑的,点击图片可以通过图片的url地址替换。
+a. 用浏览器打开index.html文件，你会发现这份模板是可编辑的，所有的文字栏目都是可以随意编辑的,点击图片可以通过图片的url地址替换。
 
-b.编辑完自己的简历以后，就把修改后的代码复制下来，替换掉原index.html里的代码。
+b. 编辑完自己的简历以后，就把修改后的代码复制下来，替换掉原index.html里的代码。
 
-c.Firefox 下：打开查看器->复制 html 标签的外部 HTML
+c. Firefox 下：打开查看器->复制 html 标签的外部 HTML
 
-d.然后将index.html中的 html 标签的所有内容（包括 html 标签）替换掉即可。
+d. 然后将index.html中的 html 标签的所有内容（包括 html 标签）替换掉即可。
 
 不喜欢这样子的可以修改static/js下的script.js文件，操作非常简单，删除该文件下的所有内容，然后加上下面这一句。
 ```
@@ -70,4 +70,4 @@ a. 打开github上的项目，点击右上角的setting
 
 b. 往下拉找到GitHub Pages，source选择master branch，然后点击save
 
-> 现在你可以访问https://你的用户名.github.io/resume/这个地址了，恭喜，简历页面已成功部署在了 Github Pages 上。
+> 现在你可以访问https://你的用户名.github.io/resume  这个地址了，恭喜，简历页面已成功部署在了 Github Pages 上。
